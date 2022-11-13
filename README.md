@@ -1,0 +1,2 @@
+## Primeiro Método
+  Aqui segue um pequeno estudo sobre aplicação de métodos. No caso, foi utilizado o método fullName para imprimir o nome completo, que consiste na concatenação do primeiro nome (firstName) e o segundo nome (secondName).
